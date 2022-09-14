@@ -39,7 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Project Snippets:
 
 <img
-  src="OneDrive/Desktop/film_app/my-project/public/page1.png"
+  src="[OneDrive/Desktop/film_app/my-project/public/page1.png](https://github.com/ehtisham784/movie-app/blob/f6c2a983e4672bba28083e6cd2a19dd6b27ed9f1/OneDrive/Desktop/film_app/my-project/public/page1.png)"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px"/>
